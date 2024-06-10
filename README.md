@@ -2,7 +2,7 @@
 
 ## Objective
 
-Build a basic recipe website to demonstrate basic HTML knowledge akquired by TOP Foundations course
+Build a basic recipe website to demonstrate basic HTML knowledge acquired by TOP Foundations course
 
 ## Contents
 
