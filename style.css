@@ -1,0 +1,26 @@
+* {
+    font-family: 'Helvetica', sans-serif;
+    font-size: medium;
+    color: gray;
+    background-color: lightgray;
+}
+
+h1, h2 {
+    font-family: 'Papyrus', 'Brush Script MT', cursive;
+}
+
+h1 {
+    font-size: xx-large;
+}
+
+h2 {
+    font-size: x-large;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a.link-back {
+    font-size: small;
+}
